@@ -1,0 +1,3 @@
+class ResultModel {
+  String questionId;
+}

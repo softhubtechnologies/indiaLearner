@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.befovy.fijkplayer:fijkplayer-full:0.7.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e82b51f94087f8e23e0c5d261bcd1136/fijkplayer-full-0.7.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e82b51f94087f8e23e0c5d261bcd1136/fijkplayer-full-0.7.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e82b51f94087f8e23e0c5d261bcd1136/fijkplayer-full-0.7.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.befovy.fijkplayer/fijkplayer-full/0.7.6/ef070e47d31d6754f0f6adff275a092b8713af84/fijkplayer-full-0.7.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.befovy.fijkplayer/fijkplayer-full/0.7.6/a3753c8fc08b923ea6aca424196761510d4ec39e/fijkplayer-full-0.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

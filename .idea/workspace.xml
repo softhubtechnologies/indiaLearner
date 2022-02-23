@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9b06af0-2f1a-4c61-a781-501aacb9ea8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wIQOcOAeQ3uneC8zgBtSFnbvDV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/jsonassets" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\New\india_learner\assets\jsonassets" />
+      <recent name="E:\projects\New\india_learner\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="additionalArgs" value="--no-sound-null-safety" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9b06af0-2f1a-4c61-a781-501aacb9ea8b" name="Default Changelist" comment="" />
+      <created>1628143591422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628143591422</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="75" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628828193426">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="75" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1628828193426" />
+    <state x="426" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1633429470012">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="426" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1633429470012" />
+<<<<<<< HEAD
+    <state x="100" y="100" width="1042" height="660" key="AVDManager" timestamp="1633580043162">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="100" y="100" width="1042" height="660" key="AVDManager/0.0.1600.860@0.0.1600.860" timestamp="1633580043162" />
+=======
+    <state x="100" y="100" width="1042" height="660" key="AVDManager" timestamp="1633492509765">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="100" y="100" width="1042" height="660" key="AVDManager/0.0.1600.860@0.0.1600.860" timestamp="1633492509765" />
+>>>>>>> 796aee16fe58e9f344633ca196121208aa7cbf78
+    <state x="440" y="175" key="AndroidProcessChooserDialog" timestamp="1629109882447">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="440" y="175" key="AndroidProcessChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1629109882447" />
+    <state x="401" y="184" key="FileChooserDialogImpl" timestamp="1629957212825">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="401" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1629957212825" />
+<<<<<<< HEAD
+    <state width="1182" height="203" key="GridCell.Tab.0.bottom" timestamp="1633580213299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1182" height="203" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1633580213299" />
+    <state width="1182" height="203" key="GridCell.Tab.0.center" timestamp="1633580213299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1182" height="203" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1633580213299" />
+    <state width="1182" height="203" key="GridCell.Tab.0.left" timestamp="1633580213298">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1182" height="203" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1633580213298" />
+    <state width="1182" height="203" key="GridCell.Tab.0.right" timestamp="1633580213299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1182" height="203" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1633580213299" />
+=======
+    <state width="1182" height="203" key="GridCell.Tab.0.bottom" timestamp="1633437487680">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1182" height="203" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1633437487680" />
+    <state width="1182" height="203" key="GridCell.Tab.0.center" timestamp="1633437487680">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1182" height="203" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1633437487680" />
+    <state width="1182" height="203" key="GridCell.Tab.0.left" timestamp="1633437487679">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1182" height="203" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1633437487679" />
+    <state width="1182" height="203" key="GridCell.Tab.0.right" timestamp="1633437487680">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1182" height="203" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1633437487680" />
+>>>>>>> 796aee16fe58e9f344633ca196121208aa7cbf78
+    <state x="122" y="61" key="SettingsEditor" timestamp="1633336780181">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="122" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1633336780181" />
+    <state x="213" y="162" key="Vcs.Push.Dialog.v2" timestamp="1631256971267">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="213" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1631256971267" />
+    <state x="437" y="207" key="chooseDestDirectoryDialog" timestamp="1628571498673">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="437" y="207" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1628571498673" />
+    <state x="345" y="77" width="1042" height="660" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1629269805146">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="345" y="77" width="1042" height="660" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1629269805146" />
+    <state x="318" y="217" key="git4idea.merge.GitPullDialog" timestamp="1631256950235">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="318" y="217" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1631256950235" />
+    <state x="262" y="330" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1631257955358">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="262" y="330" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1631257955358" />
+    <state x="277" y="190" key="run.anything.popup" timestamp="1633411722129">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="277" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1633411722129" />
+<<<<<<< HEAD
+    <state x="284" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1633580143543">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="284" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1633580143543" />
+=======
+    <state x="284" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1633436203646">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="284" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1633436203646" />
+>>>>>>> 796aee16fe58e9f344633ca196121208aa7cbf78
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/utils/DownloadsRepository.dart</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/utils/DownloadsRepository.dart</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

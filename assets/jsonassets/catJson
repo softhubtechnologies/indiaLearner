@@ -1,0 +1,34 @@
+{
+	"categories": [{
+			"image": "assets/images/defense.jpg",
+			"title": "Defense",
+			"description": "Aspire: Foundation course on indian policy"
+		},
+		{
+        			"image": "assets/images/school.jpg",
+        			"title": "School classes",
+        			"description": "Aspire: Foundation course on indian policy"
+        		},
+        		{
+                			"image": "assets/images/ssc.jpg",
+                			"title": "SSC",
+                			"description": "Aspire: Foundation course on indian policy"
+                		},
+                		{
+                        			"image": "assets/images/state.jpg",
+                        			"title": "State Exam",
+                        			"description": "Aspire: Foundation course on indian policy"
+                        		},
+                        		{
+                                                                			"image": "assets/images/upsc.jpg",
+                                                                			"title": "UPSC",
+                                                                			"description": "Aspire: Foundation course on indian policy"
+                                                                		},
+                        		{
+                                			"image": "assets/images/other.jpg",
+                                			"title": "Others",
+                                			"description": "Aspire: Foundation course on indian policy"
+                                		}
+
+	]
+}

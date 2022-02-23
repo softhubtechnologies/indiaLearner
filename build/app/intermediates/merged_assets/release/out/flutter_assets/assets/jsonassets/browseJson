@@ -1,0 +1,44 @@
+{
+	"list": [{
+			"image": "assets/images/copywriting.png",
+			"name": "teacher name",
+			"mobile": "9999999999",
+			"qualification": "MSC B.ED",
+			"email": "teacher@gmail.com",
+			"course": "UPSC"
+		},
+		{
+        			"image": "assets/images/copywriting.png",
+        			"name": "teacher name",
+        			"mobile": "9999999999",
+        			"qualification": "MSC B.ED",
+        			"email": "teacher@gmail.com",
+        			"course": "UPSC"
+        		},
+        		{
+                			"image": "assets/images/copywriting.png",
+                			"name": "teacher name",
+                			"mobile": "9999999999",
+                			"qualification": "MSC B.ED",
+                			"email": "teacher@gmail.com",
+                			"course": "UPSC"
+                		},
+                		{
+                        			"image": "assets/images/copywriting.png",
+                        			"name": "teacher name",
+                        			"mobile": "9999999999",
+                        			"qualification": "MSC B.ED",
+                        			"email": "teacher@gmail.com",
+                        			"course": "UPSC"
+                        		},
+                        		{
+                                			"image": "assets/images/copywriting.png",
+                                			"name": "teacher name",
+                                			"mobile": "9999999999",
+                                			"qualification": "MSC B.ED",
+                                			"email": "teacher@gmail.com",
+                                			"course": "UPSC"
+                                		}
+
+	]
+}

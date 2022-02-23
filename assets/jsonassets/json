@@ -1,0 +1,43 @@
+{
+	"list": [{
+			"image": "assets/images/copywriting.png",
+			"title": "NCERT summary",
+			"description": "Aspire: Foundation course on indian policy",
+			"lesson": "lesson 1",
+			"timing": "Jun 04 08:30PM",
+			"teacher": "Kumar singh"
+		},
+		{
+			"image": "assets/images/copywriting.png",
+			"title": "NCERT summary",
+			"description": "Aspire: Foundation course on indian policy",
+			"lesson": "lesson 1",
+			"timing": "Jun 04 08:30PM",
+			"teacher": "Kumar singh"
+		},
+		{
+			"image": "assets/images/copywriting.png",
+			"title": "NCERT summary",
+			"description": "Aspire: Foundation course on indian policy",
+			"lesson": "lesson 1",
+			"timing": "Jun 04 08:30PM",
+			"teacher": "unacademy"
+		},
+		{
+			"image": "assets/images/copywriting.png",
+			"title": "NCERT summary",
+			"description": "Aspire: Foundation course on indian policy",
+			"lesson": "lesson 1",
+			"timing": "Jun 04 08:30PM",
+			"teacher": "unacademy"
+		},
+		{
+			"image": "assets/images/copywriting.png",
+			"title": "NCERT summary",
+			"description": "Aspire: Foundation course on indian policy",
+			"lesson": "lesson 1",
+			"timing": "Jun 04 08:30PM",
+			"teacher": "unacademy"
+		}
+	]
+}
